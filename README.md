@@ -8,7 +8,11 @@ _Go to: https://bborealis.github.io/_
 
 ## Technologies Used
 
-_Theme from http://startbootstrap.com/
+Theme from http://startbootstrap.com/
+Animate.css
+Font-awesome
+HTML
+CSS
 
 ### Legal
 
