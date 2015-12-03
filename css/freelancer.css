@@ -514,3 +514,12 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.image-sizer {
+  height: 299px;
+  width: 299px;
+}
+
+.image-sizer-special {
+  width: 299px;
+}
